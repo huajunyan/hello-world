@@ -1,2 +1,2 @@
 # hello-world
-This is the first repository I have created.
+I am enthusiastic about applying data science to solve real world problems.
